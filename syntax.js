@@ -5,3 +5,10 @@
 //example
 //1num = 20
 //var let = 50
+
+
+let num2 = 20;
+const num3 = 12;
+
+let ans = num2 + num3;
+console.log(ans);
